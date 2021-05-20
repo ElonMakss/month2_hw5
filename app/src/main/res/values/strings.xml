@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KG_Google</string>
+    <string name="search_name">Google!</string>
+    <string name="bnt_search">search</string>
+</resources>
